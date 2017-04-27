@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-27T13:04:07.264Z</updated>
+  <updated>2017-04-27T13:05:11.604Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,21 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>My First Blog</title>
     <link href="http://yoursite.com/2017/04/27/My-First-Blog/"/>
     <id>http://yoursite.com/2017/04/27/My-First-Blog/</id>
-    <published>2017-04-27T12:58:19.891Z</published>
-    <updated>2017-04-27T13:04:07.264Z</updated>
-    
-    <content type="html"><![CDATA[<hr>
-<p>title: My First Blog<br>date: 2017-04-27 20:58:19<br>tags:</p>
-]]></content>
+    <published>2017-04-27T13:05:11.000Z</published>
+    <updated>2017-04-27T13:05:11.604Z</updated>
     
     <summary type="html">
-    
-      &lt;hr&gt;
-&lt;p&gt;title: My First Blog&lt;br&gt;date: 2017-04-27 20:58:19&lt;br&gt;tags:&lt;/p&gt;
-
     
     </summary>
     
